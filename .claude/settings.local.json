@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:juyeon0401.github.io)",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []
