@@ -1,0 +1,13 @@
+# Jekyll 관련
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby 관련
+Gemfile.lock
+vendor/
+
+# OS 관련
+.DS_Store
+Thumbs.db

@@ -1,0 +1,30 @@
+# 블로그 기본 설정
+title: 내 블로그
+description: GitHub Pages로 만든 나의 블로그
+author: juyeo
+email: your-email@example.com
+
+# GitHub Pages 설정
+baseurl: "" # 서브 경로가 있다면 여기에 입력 (예: /blog)
+url: "" # GitHub Pages URL (예: https://username.github.io)
+
+# 테마 설정 - GitHub Pages에서 공식 지원하는 minima 테마 사용
+theme: minima
+
+# 빌드 설정
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 페이지네이션
+paginate: 5
+paginate_path: "/page:num/"
+
+# 기타 설정
+timezone: Asia/Seoul
+lang: ko
+
+# SNS 링크 (선택사항)
+# github_username: your-github-username
+# twitter_username: your-twitter-username
