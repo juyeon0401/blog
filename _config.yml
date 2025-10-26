@@ -28,8 +28,8 @@ paginate_path: "/page:num/"
 timezone: Asia/Seoul
 lang: ko
 
-# Permalink 설정 - 한글 카테고리 문제 해결
-permalink: /:year/:month/:day/:title/
+# Permalink 설정 - 간단하고 깔끔한 URL
+permalink: /posts/:title/
 
 # SNS 링크 (선택사항)
 github_username: juyeon0401
