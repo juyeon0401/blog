@@ -5,7 +5,7 @@ author: juyeo
 email: your-email@example.com
 
 # GitHub Pages 설정
-baseurl: ""
+baseurl: "/blog"
 url: "https://juyeon0401.github.io"
 repository: juyeon0401/blog
 
